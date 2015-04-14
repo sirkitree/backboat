@@ -11,7 +11,7 @@
  * below. If using master/slave or multiple connections, see the advanced
  * database settings.
  */
-$database = 'mysql://user:pass@localhost/database_name';
+$database = 'mysql://tugboat:tugboat@mysql/backboat';
 $database_prefix = '';
 
 /**
